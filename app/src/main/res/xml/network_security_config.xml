@@ -2,7 +2,9 @@
 <network-security-config>
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">google.com</domain>
+        <domain includeSubdomains="true">ed.localhost.run</domain>
         <domain includeSubdomains="true">ed4.localhost.run</domain>
+        <domain includeSubdomains="true">ed8.localhost.run</domain>
     </domain-config>
 </network-security-config>
 

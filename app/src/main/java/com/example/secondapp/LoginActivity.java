@@ -32,7 +32,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class LoginActivity extends AppCompatActivity {
-    private static final String LOGIN_URL = "http://ed4.localhost.run/api/v1/rest-auth/login/";
+    private static final String LOGIN_URL = "http://ed8.localhost.run/api/v1/rest-auth/login/";
     private static final String TAG = "LoginActivity";
 
     @Override
